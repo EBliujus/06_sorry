@@ -1,0 +1,27 @@
+body {
+    background-color: #E0E0E0
+}
+.container {
+    width: 50%; 
+    margin-left: 25%;
+    margin-top: 6%; 
+    display: inline-block;
+}
+.left-column {
+    float: left; 
+    width: 38%;
+}
+.right-column {
+    width: 60%; 
+    float: left; 
+}
+h1 {
+    color: #888888; 
+    margin-top: 170px; 
+    font-size: 60px; 
+    text-align: left;
+}
+p {
+    font-size: 22px; 
+    color: #5A5A5A; 
+}
